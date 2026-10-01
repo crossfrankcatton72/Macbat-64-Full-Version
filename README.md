@@ -246,4 +246,4 @@ This repository serves as the official landing page for Macbat 64. The software 
 **Get the most recent version of Macbat 64 today!**
 
 ---
-**Last updated:** 2026-09-30 22:43:09 UTC
+**Last updated:** 2026-10-01 01:40:40 UTC
